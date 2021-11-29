@@ -1,4 +1,4 @@
-<h1>Hello There!</h1>
+# Hello There!
 
 - 👋 I’m Hugo(@tiburciohugo) a System Analysis and Development's student
 - 🤖 I’m interested in learning new technologies and getting a jog as a developer
