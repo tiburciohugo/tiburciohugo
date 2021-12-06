@@ -11,7 +11,10 @@
 ##
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tiburciohugo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" style="display: inline;">
+  <img height="170em" width="45%" src=(https://github-readme-stats.vercel.app/api?username=tiburciohugo&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)/>
+  <img height="170em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiburciohugo&layout=compact&langs_count=7&theme=dark"/>  
+</div>
 
 ##
 <br>
